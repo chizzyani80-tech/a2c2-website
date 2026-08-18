@@ -86,7 +86,23 @@ footer {
 }
 
 .about{
+  display: grid;
+  grid-template-columns: auto auto;
   font-family: 'Courier New', Courier, monospace;
   font-size: 10px;
+  margin:110px;
+  gap: 50px;
+  
 
+}
+.aaron {
+  height: 600px;
+  width: 600px;
+}
+
+@media (max-width: 600px) {
+.about{
+  display:flex;
+  flex-direction: column;
+}
 }
