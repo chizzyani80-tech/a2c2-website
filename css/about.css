@@ -78,7 +78,7 @@ footer {
 }
 
 .copyright {
-  color: #76627d;
+  color: white;
   font-size: 11px;
   margin-top: 40px;
   padding-top: 20px;
@@ -89,7 +89,6 @@ footer {
   display: grid;
   grid-template-columns: auto auto;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 2cqmax;
   margin:110px;
   gap: 50px;
   
