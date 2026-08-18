@@ -104,4 +104,9 @@ footer {
   display:flex;
   flex-direction: column;
 }
+.aaron {
+  width: 100%;
+  margin: 0px;
+  gap: 0px;
+}
 }
